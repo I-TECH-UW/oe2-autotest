@@ -1,2 +1,3 @@
-# oe2-autotest
-Selenium Based Automated testing platform for OpenELIS
+## Automated Web Browser test scripts - I-TECH & Washington University
+
+
